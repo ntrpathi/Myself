@@ -1,0 +1,163 @@
+    body {
+        text-align: center;
+    }
+    
+    .top_container {
+        background-color: #E7EBEF;
+        position: relative;
+        padding-top: 150px;
+    }
+    
+    div {
+        background-color: #E7EBEF;
+        text-align: center;
+    }
+    
+    h1 {
+        font-size: 450%;
+        margin: 50p, auto;
+        text-align: center;
+        color: skyblue;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    h4 {
+        font-size: 150%;
+        text-align: center;
+        color: skyblue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    p {
+        color: grey;
+    }
+    
+    .web {
+        text-decoration: underline;
+        text-align: center;
+    }
+    
+    .bottom_cloud {
+        position: absolute;
+        left: 300px;
+        bottom: 300px;
+    }
+    
+    .top_cloud {
+        position: absolute;
+        top: 40px;
+        right: 300px;
+    }
+    
+    .profile {
+        margin-top: 60px;
+        border-radius: 50%;
+        height: 200px;
+        width: auto;
+    }
+    
+    .skill-pic {
+        border-radius: 50%;
+        height: 200px;
+        width: 200px;
+        position: relative;
+        left: 380px;
+    }
+    
+    .hobby-pic {
+        border-radius: 50%;
+        height: 200px;
+        width: 200px;
+        position: relative;
+        right: 340px;
+    }
+    
+    #skill-head {
+        color: #11999E;
+        text-align: right;
+        position: relative;
+        right: 310px;
+    }
+    
+    #hobby-head {
+        color: #11999E;
+        position: relative;
+        right: 340px;
+    }
+    
+    .skill {
+        position: relative;
+        right: 230px;
+        bottom: 130px;
+    }
+    
+    .hobby {
+        text-align: right;
+        bottom: 140px;
+        position: relative;
+        right: 300px;
+    }
+    
+    h2 {
+        color: #11999E;
+        font-size: 30px;
+    }
+    
+    hr {
+        border: dotted grey 6px;
+        border-bottom: none;
+        width: 5%;
+        margin: 100%, auto;
+    }
+    
+    .contact-me {
+        padding: 40px;
+    }
+    
+    .btn {
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+    }
+    
+    .btn:hover {
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+        text-decoration: none;
+    }
+    
+    .bottom-container {
+        background-color: #66bfbf;
+        height: 80px;
+        padding: 20px 0 20px;
+    }
+    
+    a {
+        color: #11999E;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: white;
+    }
+    
+    .copyright {
+        color: white;
+        padding: 20px 0px;
+    }
